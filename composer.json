@@ -1,0 +1,8 @@
+{
+    "name": "lammv/orm",
+    "description": "PHP ORM for database",
+    "require": {
+        "php": ">=7.2",
+        "another-vendor/package": "1.*"
+    }
+}
